@@ -21,4 +21,6 @@ Basic usage is trivial. Any `QIODevice` can be a data source for the widget. For
 		return 0;
 	}
 
+Some
+
 This is a complete program which will display in a nice hex view, the contents of a file.
